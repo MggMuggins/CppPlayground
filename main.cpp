@@ -9,7 +9,7 @@ int main() {
     
     cin >> first >> last;
     
-    cout << "Hello, " << first << last << endl;
+    cout << "Hello, " << first << " " << last << endl;
     return 0;
 }
 
