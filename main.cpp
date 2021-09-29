@@ -11,5 +11,7 @@ int main() {
     
     cout << "Hello, " << first << " " << last << endl;
     return 0;
+    
+    cout << "Corona works hard but Wesley works harder" << endl;
 }
 
